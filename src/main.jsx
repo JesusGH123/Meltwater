@@ -5,7 +5,7 @@ import App from './context'
 
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
+  <StrictMode>   
+    <App/>
   </StrictMode>,
 )
